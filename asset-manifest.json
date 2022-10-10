@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nike_shop.git/static/css/main.073c9b0a.css",
+    "main.js": "/nike_shop.git/static/js/main.e7f657c1.js",
+    "index.html": "/nike_shop.git/index.html",
+    "main.073c9b0a.css.map": "/nike_shop.git/static/css/main.073c9b0a.css.map",
+    "main.e7f657c1.js.map": "/nike_shop.git/static/js/main.e7f657c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7f657c1.js"
+  ]
+}
